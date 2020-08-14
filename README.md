@@ -1,2 +1,2 @@
 # FAANG-Investment-Portfolio-Analytics
-FAANG Investment Portfolio Analytics
+In this Jupyter Notebook, we will analyse the perform of FAANG investment stocks till date and the performance of a portfolio of FAANG stocks.
